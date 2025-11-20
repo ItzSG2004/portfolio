@@ -277,7 +277,7 @@
         position:relative;
         width: 270px;
         height: 270px;
-        background-image: url('../images/sneha.jpeg');
+        background-image: url('../images/profile\ -\ Copy.jpeg');
         background-size: 400px 400px;
         background-position: -70px;
         border-radius: 50%;
@@ -435,4 +435,5 @@
     .top-icon{
         display: none;
     }
+
 }
